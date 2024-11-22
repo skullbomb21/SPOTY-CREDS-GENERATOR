@@ -83,21 +83,22 @@ router.get('/', async (req, res) => {
             const { connection, lastDisconnect } = s;
             if (connection === "open") {
                 await delay(10000);
-                await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `*_Pair Code Connected by PREXZYVILLA_*
-*_Made With 🤍_*
+                await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `*_Pair Code Connected by skullbomb&꧁༺ӄɨռɢ ʝօɦǟռ༻꧂*
+*_Made With 🗽⃢⃢🗿_*
 ______________________________________
 ╔════◇
 ║ *『 WOW YOU CHOOSEN SPOTY-BOTS 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._made by skullbomb and ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
+
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@reallorenzoae
-║❒ *Owner:* _https://wa.me/+553197441797_
-║❒ *Repos:* _https://github.com/skullbomb21_
+║❒ *Owner:* _https://wa.me/+553197441797_ _https://wa.me/+2349134457509
+║❒ *Repos:* _https://github.com/skullbomb21_ And ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
 ║❒ *WaGroup:* _https://chat.whatsapp.com/JGPkS53GvYf3yi2k6tH7xU_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaOssIhLSmbaZ45GWL0M_
-║❒ *Telegram:* _https://t.me/skullbomb21_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaOssIhLSmbaZ45GWL0M_ _https://whatsapp.com/channel/0029VanxGm5J3jv39RvJIM39
+║❒ *Telegram:* _https://t.me/skullbomb21_ _t.me/Johanliebert35
 ╚══════════════════════╝ 
 _____________________________________
 
@@ -108,7 +109,7 @@ _Don't Forget To Give Star To My Repos_` });
                 const xeonses = await XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: 'application/json', fileName: 'creds.json' });
                 await XeonBotInc.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
                 await XeonBotInc.sendMessage(XeonBotInc.user.id, {
-                    text: `*PREXZY-BOTS*
+                    text: `*Spoty-BOTS*
 
 
 
