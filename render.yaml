@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: PREXZY-CREDS-GENERATOR
+    name: SPOTY-CREDS-GENERATOR
     env: node
     buildCommand: yarn install
     startCommand: node index.js
