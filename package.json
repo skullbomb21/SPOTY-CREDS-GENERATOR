@@ -1,5 +1,5 @@
 {
-  "name": "Prexzy-creds-generator",
+  "name": "Spoty-creds-generator",
   "version": "1.0.0",
   "description": "Connect Whatsapp With Baileys Code Pairing",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/Prexzybooster/Prexzy-Creds-generator.git"
   },
-  "author": "Prexzy",
+  "author": "Spoty",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -36,7 +36,7 @@
     "express": "^4.18.1"
   },
   "bugs": {
-    "url": "https://github.com/Prexzybooster/Prexzy-Creds-generator/issues"
+    "url": "https://github.com/Skullbomb21/Spoty-Creds-generator/issues"
   },
-  "homepage": "https://github.com/Prexzybooster/Prexzy-Creds-generator#readme"
+  "homepage": "https://github.com/Skullbomb21/Spoty-Creds-generator#readme"
 }
