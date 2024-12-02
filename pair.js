@@ -87,18 +87,18 @@ router.get('/', async (req, res) => {
 *_Made With 🗽⃢⃢🗿_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN SPOTY-BOTS 』*
+║ *『 WOW YOU CHOOSEN king joahn MD bot 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._made by skullbomb and ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
 
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@reallorenzoae
-║❒ *Owner:* _https://wa.me/+553197441797_ _https://wa.me/+2349134457509
-║❒ *Repos:* _https://github.com/skullbomb21_ And ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
-║❒ *WaGroup:* _https://chat.whatsapp.com/JGPkS53GvYf3yi2k6tH7xU_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaOssIhLSmbaZ45GWL0M_ _https://whatsapp.com/channel/0029VanxGm5J3jv39RvJIM39
-║❒ *Telegram:* _https://t.me/skullbomb21_ _t.me/Johanliebert35
+║❒ *Ytube:* _youtube.com/@johamlieb34
+║❒ *Owner:* _https://wa.me/2349134457509
+║❒ *Repos:* _https://github.com/johanlieb34
+║❒ *WaGroup:* _https://chat.whatsapp.com/IxpsKMgFFwTLdzuE8Ubcts
+║❒ *WaChannel:*_https://whatsapp.com/channel/0029VanxGm5J3jv39RvJIM39
+║❒ *Telegram:* _t.me/Johanliebert35
 ╚══════════════════════╝ 
 _____________________________________
 
@@ -109,7 +109,7 @@ _Don't Forget To Give Star To My Repos_` });
                 const xeonses = await XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: 'application/json', fileName: 'creds.json' });
                 await XeonBotInc.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
                 await XeonBotInc.sendMessage(XeonBotInc.user.id, {
-                    text: `*Spoty-BOTS*
+                    text: `*king johan MD*
 
 
 
