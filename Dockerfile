@@ -1,7 +1,7 @@
 FROM node:lts-buster
 COPY package.json .
   
-RUN git clone https://github.com/Johanlieb34/TojiMd
+RUN git clone https://github.com/skullbomb21/SPOTY-CREDS-GENERATOR.git
 
 RUN npm install 
 
