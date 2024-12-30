@@ -84,11 +84,11 @@ router.get('/', async (req, res) => {
             if (connection === "open") {
                 await delay(10000);
                 await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `*_Pair Code Connected by skullbomb&꧁༺ӄɨռɢ ʝօɦǟռ༻꧂*
-*_Made With 🗽⃢⃢🗿_*
+*_Made With 🗽⃢⃢👑_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN king joahn MD bot 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._made by skullbomb and ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
+║ *『 TOJI MD 💀👑』*
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._made by ꧁༺ӄɨռɢ ʝօɦǟռ༻꧂
 
 ╚══════════════════════╝
 ╔═════◇
@@ -109,7 +109,7 @@ _Don't Forget To Give Star To My Repos_` });
                 const xeonses = await XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: 'application/json', fileName: 'creds.json' });
                 await XeonBotInc.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
                 await XeonBotInc.sendMessage(XeonBotInc.user.id, {
-                    text: `*king johan MD*
+                    text: `*TOJI MD*
 
 
 
